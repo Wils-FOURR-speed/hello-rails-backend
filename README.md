@@ -31,7 +31,7 @@
 
 # 📖 Rails with React <a name="about-project"></a>
 
-**Rails with React** is a fullstack app that have 5 greetings
+**Rails with React** is a fullstack app that has 5 greetings
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -61,8 +61,8 @@
 
 ## 🚀 Link To React App <a name="live-demo"></a>
 
-- [Link to React App PR](https://github.com/kit0-0/hello-react-front-end/pull/1)
-- [Link to React App feat/UI](https://github.com/kit0-0/hello-react-front-end/tree/feat/UI)
+- [Link to React App PR](https://github.com/Wils-FOURR-speed/hello-react-frontend/pull/1)
+- [Link to React App feat/UI](https://github.com/Wils-FOURR-speed/hello-react-frontend/tree/feature/UI)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,7 +88,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```bash
-  git clone https://github.com/kit0-0/hello-rails-back-end/
+  git clone https://github.com/Wils-FOURR-speed/hello-rails-backend.git
 ```
 
 You need to setup database for these project
@@ -152,9 +152,10 @@ it will run the the server on ```localhost:3000```
 
 ## 👥 Author <a name="author"></a>
 
-👤 **kit0-0**
-
-- GitHub: [@kit0-0](https://github.com/kit0-0)
+👤 **WILSAN**
+- GitHub: [@githubhandle](https://github.com/Wils-FOURR-speed)
+- Twitter: [@twitterhandle](https://twitter.com/WFourrspeed)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nji-wilsan-ndenge-47b7a826a/)
 
 
 
@@ -175,7 +176,7 @@ it will run the the server on ```localhost:3000```
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kit0-0/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/Wils-FOURR-speed/hello-rails-backend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
